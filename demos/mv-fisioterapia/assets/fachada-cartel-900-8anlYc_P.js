@@ -1,0 +1,1 @@
+var e=`/webs-comercios-demos/demos/mv-fisioterapia/assets/fachada-cartel-900-DAuE4XA-.webp`;export{e as t};

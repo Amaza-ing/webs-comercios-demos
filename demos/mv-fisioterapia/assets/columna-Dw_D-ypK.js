@@ -1,0 +1,1 @@
+var e=`/webs-comercios-demos/demos/mv-fisioterapia/assets/columna-Dw5Dkf_A.svg`;export{e as t};

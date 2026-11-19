@@ -1,0 +1,78 @@
+# Miriam Valenzuela Fisioterapia
+
+> Miriam Valenzuela Fisioterapia (MV Fisioterapia, Fisioterapia Miriam Valenzuela) es una clínica de fisioterapia en Granada (España), en la Calle Gardenia, 1, 18006 Granada, cerca del Camino de Ronda y del río Genil. La lleva la fisioterapeuta Miriam Valenzuela Martínez, colegiada nº 7071 del Colegio Profesional de Fisioterapeutas de Andalucía. Especialidades: fisioterapia deportiva en artes marciales y deportes de contacto, articulación temporomandibular (ATM) y bruxismo, y ecografía musculoesquelética. Cita en el 637 576 100, por teléfono o WhatsApp.
+
+## Datos
+- Nombre: Miriam Valenzuela Fisioterapia. En el cartel de la clínica pone MV Fisioterapia.
+- Fisioterapeuta: Miriam Valenzuela Martínez, colegiada nº 7071.
+- Dirección: Calle Gardenia, 1, 18006 Granada (Andalucía, España), cerca del Camino de Ronda y del río Genil.
+- Coordenadas: 37.165123, -3.603144. Mapa: https://maps.google.com/?q=37.165123,-3.603144
+- Teléfono: 637 576 100 (+34637576100)
+- WhatsApp: 637 576 100, https://wa.me/34637576100
+- Instagram: @miriamvalenzuelafisioterapia, https://www.instagram.com/miriamvalenzuelafisioterapia
+
+## Páginas
+- [Inicio](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/): Fisioterapeuta en Granada: dolor de espalda y cuello, lesiones deportivas y de artes marciales, ATM y bruxismo, ecografía. Calle Gardenia, 1. Cita: 637 576 100.
+- [Servicios](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/): Los doce servicios de MV Fisioterapia en Granada: musculoesquelética, traumatológica, deportiva y artes marciales, ATM, ecografía, terapia manual, ejercicio y más.
+- [Cómo trabajo](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/como-trabajo/): Primera visita, valoración funcional, tratamiento y ejercicios para casa. Miriam Valenzuela Martínez, fisioterapeuta colegiada nº 7071 en Granada.
+- [Preguntas](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/preguntas-frecuentes/): ¿Hace falta volante del médico? ¿Cómo es la primera sesión? ¿Qué ropa llevo? Respuestas sobre la fisioterapia en MV Fisioterapia, Granada.
+- [Dónde estamos](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/donde-estamos/): MV Fisioterapia está en la Calle Gardenia, 1, en Granada, junto al Camino de Ronda y el río Genil. Mapa, foto de la fachada y cómo llegar.
+- [Pedir cita](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/cita/): Pide cita en MV Fisioterapia llamando al 637 576 100 o por WhatsApp. Calle Gardenia, 1, Granada.
+- [Cookies](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/politica-de-cookies/): Qué cookies y qué almacenamiento usa la web de MV Fisioterapia y cómo cambiar tu elección.
+
+## Servicios
+- [Fisioterapia musculoesquelética](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/fisioterapia-musculoesqueletica/): Dolor de espalda, cuello, hombro o rodilla que aparece sin un golpe claro o que no termina de irse. Primero se busca qué estructura protesta y por qué; después se trata con las manos y con ejercicio.
+- [Fisioterapia traumatológica y ortopédica](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/fisioterapia-traumatologica/): Recuperación de fracturas, esguinces, luxaciones y operaciones: ligamento cruzado, menisco, prótesis de rodilla o de cadera, hombro. Se trabaja por fases y teniendo en cuenta las indicaciones de tu traumatólogo.
+- [Fisioterapia deportiva especializada en artes marciales](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/fisioterapia-deportiva-artes-marciales/): Judo, jiu-jitsu, karate, boxeo, MMA. Dedos, hombros, rodillas, costillas y cuello se llevan los golpes y las palancas. Se trata la lesión y se prepara la vuelta al tatami con un plan por etapas.
+- [Fisioterapia de la articulación temporomandibular (ATM)](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/fisioterapia-atm-bruxismo/): Dolor o chasquidos al abrir la boca, mandíbula cargada al despertar, bruxismo o dolor de cabeza que viene de la mandíbula. Terapia manual, ejercicios y pautas, en coordinación con tu dentista si llevas férula.
+- [Valoración y diagnóstico funcional](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/valoracion-funcional/): La primera visita: entrevista, pruebas de movilidad y fuerza y exploración. Sales sabiendo qué tienes, qué se va a hacer y una estimación de cuánto puede llevar.
+- [Ecografía musculoesquelética](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/ecografia-musculoesqueletica/): El ecógrafo enseña en directo tendones, músculos y ligamentos, también mientras se mueven. Sirve para afinar la valoración y para ver cómo evoluciona la lesión de una sesión a otra.
+- [Biomecánica humana](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/biomecanica/): Análisis de cómo te mueves: al andar, al correr, al agacharte o al lanzar una patada. Sirve para encontrar el gesto que sobrecarga una zona y corregirlo.
+- [Terapia manual](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/terapia-manual/): Movilizaciones articulares, técnicas sobre músculo y fascia, y masaje cuando tiene sentido. Las manos bajan el dolor y devuelven movimiento; el ejercicio se encarga de que dure.
+- [Ejercicio terapéutico](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/ejercicio-terapeutico/): Ejercicios elegidos para tu lesión y tu nivel, con una progresión semana a semana. Se aprenden en consulta y se hacen en casa, con poco o ningún material.
+- [Vendaje funcional](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/vendaje-funcional/): Vendaje rígido o neuromuscular para proteger una articulación o descargar una zona mientras sigues entrenando o trabajando. Muy útil en tobillos, dedos y muñecas.
+- [Electroterapia](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/electroterapia/): TENS para calmar el dolor y electroestimulación para despertar un músculo que se ha quedado vago después de una lesión o una operación. Se usa como apoyo del tratamiento.
+- [Escuela de espalda](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/servicios/escuela-de-espalda/): Sesiones para entender tu dolor de espalda y aprender a manejarlo: cómo coger peso, qué ejercicios te convienen y qué hacer cuando vuelve a avisar.
+
+## Más detalle
+- [Texto completo de cada servicio y de las preguntas frecuentes](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/llms-full.txt)
+
+## Preguntas frecuentes
+### ¿Miriam Valenzuela Fisioterapia y MV Fisioterapia son la misma clínica?
+Sí. MV Fisioterapia, el nombre que pone en el cartel, es la clínica de la fisioterapeuta Miriam Valenzuela Martínez, colegiada nº 7071, en la Calle Gardenia, 1 de Granada.
+
+### ¿Dónde está la clínica?
+En la Calle Gardenia, 1, 18006 Granada, cerca del Camino de Ronda y del río Genil. En «Dónde estamos» tienes el mapa y una foto de la fachada: busca el cartel azul de MV Fisioterapia.
+
+### ¿Necesito que me mande el médico para ir al fisioterapeuta?
+No. Puedes pedir cita directamente. Si tienes informes médicos o pruebas de imagen (radiografías, resonancias, ecografías), tráelos a la primera sesión, porque ayudan a completar la valoración.
+
+### ¿Cómo es la primera sesión?
+Empieza con una conversación sobre lo que te pasa y una exploración: movilidad, fuerza, pruebas funcionales y, si aporta información, ecografía. Con eso se explica qué está ocurriendo y se plantea el tratamiento. Si no hay motivo para esperar, se empieza a tratar ese mismo día.
+
+### ¿Qué ropa llevo?
+Ropa cómoda que deje ver y mover la zona que te molesta: pantalón corto si es la rodilla o el tobillo, camiseta de tirantes si es el hombro o el cuello.
+
+### ¿Para qué sirve la ecografía musculoesquelética en fisioterapia?
+Permite ver en tiempo real músculos, tendones y ligamentos, también mientras se mueven. En fisioterapia se usa para afinar la valoración y para comprobar cómo evoluciona una lesión. No sustituye al diagnóstico médico: si se ve algo que necesita otra prueba o un especialista, se te deriva.
+
+### ¿Qué problemas de la ATM (mandíbula) se tratan?
+Dolor en la mandíbula o delante de la oreja, chasquidos al abrir o cerrar la boca, dificultad para abrirla del todo, bruxismo (apretar o rechinar los dientes) y dolores de cabeza o de cuello relacionados. Si usas férula o te trata un dentista, el tratamiento se coordina con él.
+
+### ¿Tratáis lesiones de artes marciales y deportes de contacto?
+Sí, es una de las especialidades de la clínica: judo, jiu-jitsu, karate, taekwondo, boxeo, kickboxing o MMA. Esguinces de dedos y tobillos, hombros, rodillas, costillas y cuello. Además de tratar la lesión, se planifica la vuelta al entrenamiento y a la competición.
+
+### ¿Tratáis lesiones de otros deportes, como correr, el pádel o el gimnasio?
+Sí. Las artes marciales son la especialidad, pero se tratan lesiones de cualquier deporte: carrera, ciclismo, fútbol, pádel, crossfit o gimnasio. La forma de trabajar es la misma: valorar la lesión, tratarla y preparar la vuelta a entrenar.
+
+### ¿Qué es la escuela de espalda?
+Son sesiones para aprender a cuidar la espalda: cómo funciona, qué hacer cuando duele, cómo coger peso y qué ejercicios te convienen. Está pensada para personas con dolor lumbar o cervical que vuelve cada cierto tiempo y para quien quiere evitar que aparezca.
+
+### ¿Cuántas sesiones voy a necesitar?
+Depende de la lesión, del tiempo que lleve y de cómo responda. Después de la valoración se te da una estimación y se revisa según avanzas. La idea es que no dependas de la camilla, y por eso siempre hay ejercicios para casa.
+
+### ¿La terapia manual duele?
+Alguna técnica puede molestar un poco en la zona sensible, pero no se trata de aguantar. La intensidad se ajusta a lo que toleras y antes se te explica qué se va a hacer.
+
+### ¿Cómo pido cita?
+Puedes pedir cita llamando al 637 576 100 o por WhatsApp al mismo número, o pasando por la clínica. Estamos en la Calle Gardenia, 1, en Granada.
