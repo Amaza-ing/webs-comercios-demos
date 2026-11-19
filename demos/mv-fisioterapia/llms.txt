@@ -1,15 +1,27 @@
 # Miriam Valenzuela Fisioterapia
 
-> Miriam Valenzuela Fisioterapia (MV Fisioterapia, Fisioterapia Miriam Valenzuela) es una clínica de fisioterapia en Granada (España), en la Calle Gardenia, 1, 18006 Granada, cerca del Camino de Ronda y del río Genil. La lleva la fisioterapeuta Miriam Valenzuela Martínez, colegiada nº 7071 del Colegio Profesional de Fisioterapeutas de Andalucía. Especialidades: fisioterapia deportiva en artes marciales y deportes de contacto, articulación temporomandibular (ATM) y bruxismo, y ecografía musculoesquelética. Cita en el 637 576 100, por teléfono o WhatsApp.
+> Miriam Valenzuela Fisioterapia (MV Fisioterapia, Fisioterapia Miriam Valenzuela) es una clínica de fisioterapia en Granada (España), en la Calle Gardenia, 1, bajo 19, 18006 Granada, cerca del Camino de Ronda y del río Genil. La lleva la fisioterapeuta Miriam Valenzuela Martínez, colegiada nº 7071 del Ilustre Colegio Profesional de Fisioterapeutas de Andalucía. Especialidades: fisioterapia deportiva en artes marciales y deportes de contacto, articulación temporomandibular (ATM) y bruxismo, y ecografía musculoesquelética. Cita en el 637 576 100, por teléfono o WhatsApp.
 
 ## Datos
 - Nombre: Miriam Valenzuela Fisioterapia. En el cartel de la clínica pone MV Fisioterapia.
 - Fisioterapeuta: Miriam Valenzuela Martínez, colegiada nº 7071.
-- Dirección: Calle Gardenia, 1, 18006 Granada (Andalucía, España), cerca del Camino de Ronda y del río Genil.
+- Dirección: Calle Gardenia, 1, bajo 19, 18006 Granada (Andalucía, España), cerca del Camino de Ronda y del río Genil.
 - Coordenadas: 37.165123, -3.603144. Mapa: https://maps.google.com/?q=37.165123,-3.603144
 - Teléfono: 637 576 100 (+34637576100)
 - WhatsApp: 637 576 100, https://wa.me/34637576100
+- Correo: mfisiovalen@hotmail.com
 - Instagram: @miriamvalenzuelafisioterapia, https://www.instagram.com/miriamvalenzuelafisioterapia
+
+## Tarifas
+- Sesión en la clínica: 40 € (45–60 minutos).
+- Sesión a domicilio: 50 €.
+- No hay bonos: cada sesión se paga por separado.
+- No trabaja con seguros médicos ni mutuas.
+
+## Cómo llegar
+- Metro: parada Alcázar del Genil, dirección Armilla (hacia el Zaidín).
+- Autobús: línea U3, parada Cno. Ronda 4 - Alcázar Genil (código 242).
+- Aparcamiento: Zona azul en Jardín de la Reina y en todo el paseo del río; Parking Congresos; Parking Neptuno.
 
 ## Páginas
 - [Inicio](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/): Fisioterapeuta en Granada: dolor de espalda y cuello, lesiones deportivas y de artes marciales, ATM y bruxismo, ecografía. Calle Gardenia, 1. Cita: 637 576 100.
@@ -18,6 +30,8 @@
 - [Preguntas](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/preguntas-frecuentes/): ¿Hace falta volante del médico? ¿Cómo es la primera sesión? ¿Qué ropa llevo? Respuestas sobre la fisioterapia en MV Fisioterapia, Granada.
 - [Dónde estamos](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/donde-estamos/): MV Fisioterapia está en la Calle Gardenia, 1, en Granada, junto al Camino de Ronda y el río Genil. Mapa, foto de la fachada y cómo llegar.
 - [Pedir cita](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/cita/): Pide cita en MV Fisioterapia llamando al 637 576 100 o por WhatsApp. Calle Gardenia, 1, Granada.
+- [Aviso legal](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/aviso-legal/): Titular de la web de MV Fisioterapia, datos de colegiación y condiciones de uso.
+- [Privacidad](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/politica-de-privacidad/): Qué datos trata MV Fisioterapia, para qué, durante cuánto tiempo y cómo ejercer tus derechos.
 - [Cookies](https://amaza-ing.github.io/webs-comercios-demos/demos/mv-fisioterapia/politica-de-cookies/): Qué cookies y qué almacenamiento usa la web de MV Fisioterapia y cómo cambiar tu elección.
 
 ## Servicios
@@ -42,7 +56,7 @@
 Sí. MV Fisioterapia, el nombre que pone en el cartel, es la clínica de la fisioterapeuta Miriam Valenzuela Martínez, colegiada nº 7071, en la Calle Gardenia, 1 de Granada.
 
 ### ¿Dónde está la clínica?
-En la Calle Gardenia, 1, 18006 Granada, cerca del Camino de Ronda y del río Genil. En «Dónde estamos» tienes el mapa y una foto de la fachada: busca el cartel azul de MV Fisioterapia.
+En la Calle Gardenia, 1, bajo 19, 18006 Granada, junto al Camino de Ronda y a un paso de la parada de metro Alcázar del Genil. En «Dónde estamos» tienes el mapa y una foto de la fachada: busca el cartel azul de MV Fisioterapia.
 
 ### ¿Necesito que me mande el médico para ir al fisioterapeuta?
 No. Puedes pedir cita directamente. Si tienes informes médicos o pruebas de imagen (radiografías, resonancias, ecografías), tráelos a la primera sesión, porque ayudan a completar la valoración.
@@ -75,4 +89,25 @@ Depende de la lesión, del tiempo que lleve y de cómo responda. Después de la 
 Alguna técnica puede molestar un poco en la zona sensible, pero no se trata de aguantar. La intensidad se ajusta a lo que toleras y antes se te explica qué se va a hacer.
 
 ### ¿Cómo pido cita?
-Puedes pedir cita llamando al 637 576 100 o por WhatsApp al mismo número, o pasando por la clínica. Estamos en la Calle Gardenia, 1, en Granada.
+Puedes pedir cita llamando al 637 576 100, por WhatsApp al mismo número o escribiendo a mfisiovalen@hotmail.com, o pasando por la clínica. Estamos en la Calle Gardenia, 1, en Granada.
+
+### ¿Cuánto cuesta una sesión de fisioterapia?
+40 € la sesión en la clínica y 50 € a domicilio.
+
+### ¿Cuánto dura cada sesión?
+Entre 45 y 60 minutos.
+
+### ¿Hay bonos de varias sesiones?
+No. Cada sesión se paga por separado, a 40 €.
+
+### ¿La clínica trabaja con seguros médicos o mutuas?
+No. Es una clínica privada y no trabaja con seguros ni mutuas.
+
+### ¿Hay fisioterapia a domicilio?
+Sí. La sesión a domicilio cuesta 50 €. Al pedir cita, di tu dirección.
+
+### ¿Se puede aparcar cerca de la clínica?
+Sí. Hay zona azul en Jardín de la Reina y a lo largo de todo el paseo del río, y cerca están los aparcamientos de Congresos y de Neptuno.
+
+### ¿Cómo llego en transporte público?
+En metro, parada Alcázar del Genil, en dirección Armilla (hacia el Zaidín). En autobús, línea U3, parada Cno. Ronda 4 - Alcázar Genil (código 242).
